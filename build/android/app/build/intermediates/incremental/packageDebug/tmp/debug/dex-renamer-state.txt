@@ -1,0 +1,7 @@
+#Sat Nov 07 11:22:04 CET 2020
+base.0=/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex

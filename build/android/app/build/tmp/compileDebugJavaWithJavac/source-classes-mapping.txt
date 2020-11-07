@@ -1,0 +1,8 @@
+scuolamedia/pisticci/experience/PisticciSharingExperienceAppInfo.java
+ scuolamedia.pisticci.experience.PisticciSharingExperienceAppInfo
+scuolamedia/pisticci/experience/PisticciSharingExperienceActivity.java
+ scuolamedia.pisticci.experience.PisticciSharingExperienceActivity
+scuolamedia/pisticci/experience/PisticciSharingExperienceApplication.java
+ scuolamedia.pisticci.experience.PisticciSharingExperienceApplication
+scuolamedia/pisticci/experience/BuildConfig.java
+ scuolamedia.pisticci.experience.BuildConfig

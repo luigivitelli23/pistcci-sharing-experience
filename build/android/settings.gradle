@@ -1,0 +1,2 @@
+rootProject.name = 'Pisticci Sharing Experience'
+include ':app'

@@ -1,0 +1,156 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="scuolamedia.pisticci.experience"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:4:2-63
+11-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:4:19-61
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:6:2-72
+12-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:6:19-70
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:8:2-75
+13-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:8:19-73
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:10:2-77
+14-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:10:19-75
+15
+16    <uses-feature
+16-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:11:5-13:35
+17        android:glEsVersion="0x00020000"
+17-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:12:9-41
+18        android:required="true" />
+18-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:13:9-32
+19
+20    <uses-permission android:name="scuolamedia.pisticci.experience.permission.MAPS_RECEIVE" />
+20-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:15:5-80
+20-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:15:22-77
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:16:5-81
+21-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:16:22-78
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:17:5-79
+22-->[ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:17:22-76
+23    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+23-->[ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:11:5-98
+23-->[ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:11:22-95
+24
+25    <application
+25-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+26        android:name="scuolamedia.pisticci.experience.PisticciSharingExperienceApplication"
+26-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:92-143
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.3.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/6951752b90253db48d1739581ebe3633/core-1.3.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@drawable/appicon"
+29-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:15-47
+30        android:label="Pisticci Sharing Experience"
+30-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:48-91
+31        android:theme="@style/Theme.MyTheme"
+31-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:180-218
+32        android:usesCleartextTraffic="true" >
+32-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:144-179
+33        <meta-data
+33-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:4:5-123
+34            android:name="com.google.android.maps.v2.API_KEY"
+34-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:4:16-65
+35            android:value="AIzaSyBcjBBnfypAwzmH7BugH-V4rOOsDLkxL44" />
+35-->/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:4:66-121
+36
+37        <activity
+38            android:name="scuolamedia.pisticci.experience.PisticciSharingExperienceActivity"
+39            android:alwaysRetainTaskState="true"
+40            android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"
+41            android:label="@string/app_name"
+42            android:theme="@style/Theme.Titanium" >
+43            <intent-filter>
+44                <action android:name="android.intent.action.MAIN" />
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+47            </intent-filter>
+48        </activity>
+49
+50        <meta-data
+50-->[ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:14:9-16:69
+51            android:name="com.google.android.gms.version"
+51-->[ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:15:13-58
+52            android:value="@integer/google_play_services_version" />
+52-->[ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:16:13-66
+53
+54        <activity
+54-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:12:9-14:197
+55            android:name="org.appcelerator.titanium.TiActivity"
+55-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:13:13-64
+56            android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" />
+56-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:14:13-194
+57        <activity
+57-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:15:9-18:65
+58            android:name="org.appcelerator.titanium.TiTranslucentActivity"
+58-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:16:13-75
+59            android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"
+59-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:17:13-194
+60            android:theme="@style/Theme.Titanium.Translucent" />
+60-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:18:13-62
+61        <activity
+61-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:19:9-22:88
+62            android:name="ti.modules.titanium.media.TiCameraActivity"
+62-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:20:13-70
+63            android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"
+63-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:21:13-194
+64            android:theme="@style/Theme.AppCompat.Translucent.NoTitleBar.Fullscreen" />
+64-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:22:13-85
+65        <activity
+65-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:23:9-26:65
+66            android:name="ti.modules.titanium.media.TiVideoActivity"
+66-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:24:13-69
+67            android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"
+67-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:25:13-194
+68            android:theme="@style/Theme.AppCompat.Fullscreen" />
+68-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:26:13-62
+69        <activity android:name="ti.modules.titanium.ui.android.TiPreferencesActivity" />
+69-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:27:9-89
+69-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:27:19-86
+70
+71        <provider
+71-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:29:9-33:50
+72            android:name="org.appcelerator.titanium.io.TiFileProvider"
+72-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:30:13-71
+73            android:authorities="scuolamedia.pisticci.experience.tifileprovider"
+73-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:31:13-66
+74            android:exported="false"
+74-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:32:13-37
+75            android:grantUriPermissions="true" />
+75-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:33:13-47
+76
+77        <service
+77-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:35:9-38:72
+78            android:name="com.appcelerator.aps.APSAnalyticsService"
+78-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:36:13-68
+79            android:exported="false"
+79-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:37:13-37
+80            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Needs to be explicitly declared on P+ -->
+80-->[org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:38:13-69
+81        <uses-library
+81-->[com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+82            android:name="org.apache.http.legacy"
+82-->[com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+83            android:required="false" />
+83-->[com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+84
+85        <activity
+85-->[com.google.android.gms:play-services-base:17.1.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/81f86cc5af4e0551a36e589fd825baa4/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+86            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+86-->[com.google.android.gms:play-services-base:17.1.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/81f86cc5af4e0551a36e589fd825baa4/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+87            android:exported="false"
+87-->[com.google.android.gms:play-services-base:17.1.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/81f86cc5af4e0551a36e589fd825baa4/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.google.android.gms:play-services-base:17.1.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/81f86cc5af4e0551a36e589fd825baa4/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+89    </application>
+90
+91</manifest>
