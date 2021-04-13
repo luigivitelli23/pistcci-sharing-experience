@@ -1,7 +1,7 @@
-#Sat Nov 07 11:22:04 CET 2020
-base.0=/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue Apr 13 11:45:52 CEST 2021
+base.1=/Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
 path.1=classes2.dex
+base.0=/Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.1=classes2.dex
-path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
+path.0=classes.dex

@@ -26,7 +26,7 @@ listView.add(cover);
 cover.add(Ti.UI.createImageView({
   width: '100%',
   height: Ti.UI.SIZE,
-  image: 'assets/images/interviste/felterino/gallery2.jpg'
+  image: 'assets/images/app_cover.png'
 }))
 
 function addText(size, fontWeight, text) {

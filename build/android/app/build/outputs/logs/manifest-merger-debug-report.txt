@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 activity#scuolamedia.pisticci.experience.PisticciSharingExperienceActivity
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:14:3-19:14
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:14:3-19:14
 	android:configChanges
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
-MERGED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:2:1-19:12
 MERGED from [ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:2:1-19:12
 MERGED from [org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:2:1-41:12
@@ -50,52 +50,52 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luigivitelli/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0ddd97737a234e5d785bbfec2e4d23d0/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/ad4cb2cf06d986e16c6203f346adc839/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.maps.android:android-maps-utils:0.6.2] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/6a370784f0b64621cae7c690aa6d58ce/jetified-android-maps-utils-0.6.2/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:2:1-6:14
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:2:1-6:14
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:2:1-6:14
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:2:1-6:14
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:2:1-6:14
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:2:1-6:14
 	package
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:117-158
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:117-158
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:11-57
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:11-57
 	xmlns:android
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:58-116
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:58-116
 	android:versionCode
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:159-182
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
-		REJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:2:159-182
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:159-182
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
+		REJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:2:159-182
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
 	tools:replace
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:2:183-218
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:2:183-218
 uses-permission#android.permission.INTERNET
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:4:2-63
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:4:2-63
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:4:19-61
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:4:19-61
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:6:2-72
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:6:2-72
 	android:name
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:6:19-70
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:6:19-70
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:8:2-75
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:8:2-75
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:8:19-73
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:8:19-73
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:10:2-77
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:10:2-77
 	android:name
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:10:19-75
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:10:19-75
 application
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
-MERGED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
-MERGED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+MERGED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+MERGED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
 MERGED from [ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:13:5-17:19
 MERGED from [ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:13:5-17:19
 MERGED from [org.appcelerator:titanium:9.2.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/49a87f0e9b2a36438c450d6180ba449c/jetified-titanium-9.2.1/AndroidManifest.xml:11:5-39:19
@@ -123,26 +123,26 @@ MERGED from [com.google.maps.android:android-maps-utils:0.6.2] /Users/luigivitel
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/6951752b90253db48d1739581ebe3633/core-1.3.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:48-91
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:48-91
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:48-91
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:48-91
 	android:icon
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:15-47
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:15-47
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:15-47
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:15-47
 	android:theme
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:180-218
-		REJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:180-218
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:180-218
+		REJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:180-218
 	tools:replace
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:3:54-83
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:3:54-83
 	android:usesCleartextTraffic
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:144-179
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:144-179
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:144-179
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:144-179
 	android:name
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:92-143
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml:12:92-143
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:92-143
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml:12:92-143
 uses-sdk
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
 MERGED from [ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [ti:playservices:17.1.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/7365ce71a2c95550c34f6dcb2950fe32/jetified-playservices-17.1.1/AndroidManifest.xml:7:5-9:41
@@ -225,20 +225,20 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luigivitelli/.gradle/
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/ad4cb2cf06d986e16c6203f346adc839/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.maps.android:android-maps-utils:0.6.2] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/6a370784f0b64621cae7c690aa6d58ce/jetified-android-maps-utils-0.6.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.maps.android:android-maps-utils:0.6.2] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/6a370784f0b64621cae7c690aa6d58ce/jetified-android-maps-utils-0.6.2/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:4:5-123
+ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:4:5-123
 	android:value
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:4:66-121
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:4:66-121
 	android:name
-		ADDED from /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/debug/AndroidManifest.xml:4:16-65
+		ADDED from /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/debug/AndroidManifest.xml:4:16-65
 uses-feature#0x00020000
 ADDED from [ti:map:5.0.1] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/b7d4015600eb7f6c20e079cbe1f0a521/jetified-map-5.0.1/AndroidManifest.xml:11:5-13:35
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/luigivitelli/.gradle/caches/transforms-2/files-2.1/0a72d19fd576c9c0150aaa3680c16329/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35

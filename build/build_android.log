@@ -1,19 +1,19 @@
 
-11/7/2020, 11:21:43 AM
+4/13/2021, 11:45:38 AM
 
 Operating System
-  Name                        = Mac OS X
-  Version                     = 10.15.6
+  Name                        = macOS
+  Version                     = 11.2
   Architecture                = 64bit
   # CPUs                      = 8
   Memory                      = 17179869184
 
 Node.js
-  Node.js Version             = 14.10.0
-  npm Version                 = 6.14.8
+  Node.js Version             = 10.15.1
+  npm Version                 = 6.4.1
 
 Titanium CLI
-  CLI Version                 = 5.2.5
+  CLI Version                 = 5.3.0
 
 Titanium SDK
   SDK Version                 = 9.2.1.GA
@@ -21,149 +21,43 @@ Titanium SDK
   Target Platform             = android
 
 Command
-  /Users/luigivitelli/.nvm/versions/node/v14.10.0/bin/node /Users/luigivitelli/.nvm/versions/node/v14.10.0/bin/ti build -p android
+  /Users/luigivitelli/.nvm/versions/node/v10.15.1/bin/node /Users/luigivitelli/.nvm/versions/node/v10.15.1/bin/ti build -p android
 
-[INFO]   Auto selecting emulator
-[DEBUG]  Searching for API >= undefined and has Google APIs
-[DEBUG]  Searching for API >= undefined
-[INFO]   Auto selected emulator Pixel 3 API 29 10
-[DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/PisticciExperience/node_modules
+[DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/node_modules
 [DEBUG]  Detecting modules in /Users/luigivitelli/Library/Application Support/Titanium/modules
-[DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/PisticciExperience/modules
-[DEBUG]  Detected android module: facebook 10.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/10.0.0
-[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
-[DEBUG]  Detected commonjs module: ti.cloud 3.2.8 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.8
-[DEBUG]  Detected android module: facebook 4.0.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/4.0.3
-[DEBUG]  Detected android module: facebook 6.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/6.1.0
-[DEBUG]  Detected android module: facebook 6.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/6.0.1
-[DEBUG]  Detected android module: facebook 7.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/7.0.0
-[DEBUG]  Detected android module: facebook 6.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/6.2.0
-[DEBUG]  Detected android module: facebook 7.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/7.1.0
-[DEBUG]  Detected android module: facebook 7.3.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/7.3.1
-[DEBUG]  Detected android module: facebook 7.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/7.2.0
-[DEBUG]  Detected android module: facebook 8.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/8.0.0
-[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
-[DEBUG]  Detected android module: gm.playservices 11.6.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/gm.playservices/11.6.0
-[DEBUG]  Detected android module: ti.cloudpush 5.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.1.0
-[DEBUG]  Detected android module: ti.cloudpush 4.0.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.3
-[DEBUG]  Detected android module: ti.cloudpush 5.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.0.0
-[DEBUG]  Detected android module: ti.cloudpush 5.1.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.1.3
-[DEBUG]  Detected android module: ti.cloudpush 6.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/6.0.0
-[DEBUG]  Detected android module: ti.cloudpush 6.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/6.0.1
+[DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules
+[DEBUG]  Detected android module: ti.map 4.2.0 @ /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/android/ti.map/4.2.0
 [DEBUG]  Detected android module: ti.cloudpush 7.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/7.1.0
-[DEBUG]  Detected android module: ti.identity 1.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.identity/1.0.0
-[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
-[DEBUG]  Detected android module: ti.map 2.3.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/2.3.0
-[DEBUG]  Detected android module: ti.identity 3.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.identity/3.0.2
-[DEBUG]  Detected android module: ti.cloudpush 5.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.2.0
-[DEBUG]  Detected android module: ti.map 4.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/4.2.0
-[DEBUG]  Detected android module: ti.map 4.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/4.0.0
-[DEBUG]  Detected android module: ti.map 3.3.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/3.3.1
-[DEBUG]  Detected android module: ti.map 3.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/3.0.1
-[DEBUG]  Detected android module: ti.map 4.5.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/4.5.0
-[DEBUG]  Detected android module: ti.map 4.3.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/4.3.1
-[DEBUG]  Detected android module: ti.map 4.1.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/4.1.1
-[DEBUG]  Detected android module: hyperloop 3.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/3.0.1
-[DEBUG]  Detected android module: ti.map 5.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
-[DEBUG]  Detected android module: hyperloop 3.1.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/3.1.2
-[DEBUG]  Detected android module: hyperloop 3.0.5 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/3.0.5
-[DEBUG]  Detected android module: hyperloop 3.1.4 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/3.1.4
-[DEBUG]  Detected android module: hyperloop 3.1.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/3.1.3
-[DEBUG]  Detected android module: hyperloop 4.0.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/4.0.3
-[DEBUG]  Detected android module: hyperloop 4.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/4.0.2
-[DEBUG]  Detected android module: hyperloop 6.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/6.0.2
-[DEBUG]  Detected android module: hyperloop 4.0.4 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/4.0.4
-[DEBUG]  Detected android module: ti.playservices 16.1.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/16.1.2
-[DEBUG]  Detected android module: ti.playservices 16.1.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/16.1.3
-[DEBUG]  Detected android module: ti.playservices 11.0.40 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/11.0.40
-[DEBUG]  Detected android module: ti.touchid 2.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.touchid/2.1.0
-[DEBUG]  Detected android module: ti.touchid 2.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.touchid/2.0.1
-[DEBUG]  Detected android module: ti.touchid 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.touchid/3.0.0
-[DEBUG]  Detected android module: ti.touchid 3.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.touchid/3.0.1
 [DEBUG]  Detected android module: ti.playservices 17.1.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
-[DEBUG]  Detected android module: ti.touchid 2.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.touchid/2.2.0
-[DEBUG]  Detected android module: ti.webdialog 1.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.webdialog/1.1.0
-[DEBUG]  Detected windows module: hyperloop 3.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/windows/hyperloop/3.0.1
+[DEBUG]  Detected android module: hyperloop 6.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/6.0.2
+[DEBUG]  Detected ios module: ti.map 3.0.2 @ /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/iphone/ti.map/3.0.2
+[DEBUG]  Detected android module: ti.identity 3.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.identity/3.0.2
+[DEBUG]  Detected android module: ti.map 5.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
+[DEBUG]  Detected android module: facebook 10.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/10.0.0
 [DEBUG]  Detected android module: ti.webdialog 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.webdialog/2.0.0
-[DEBUG]  Detected windows module: hyperloop 3.0.5 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/windows/hyperloop/3.0.5
-[DEBUG]  Detected windows module: hyperloop 3.1.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/windows/hyperloop/3.1.3
-[DEBUG]  Detected windows module: hyperloop 3.1.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/windows/hyperloop/3.1.2
-[DEBUG]  Detected windows module: hyperloop 3.1.4 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/windows/hyperloop/3.1.4
-[DEBUG]  Detected windows module: hyperloop 4.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/windows/hyperloop/4.0.2
-[DEBUG]  Detected ios module: com.appcelerator.urlSession 1.1.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
-[DEBUG]  Detected ios module: com.appcelerator.urlSession 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
-[DEBUG]  Detected ios module: com.appcelerator.urlSession 2.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.2.0
-[DEBUG]  Detected ios module: com.appcelerator.urlSession 2.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.1.0
-[DEBUG]  Detected ios module: facebook 6.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/facebook/6.0.0
-[DEBUG]  Detected ios module: com.appcelerator.urlSession 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/3.0.0
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
 [DEBUG]  Detected ios module: facebook 9.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/facebook/9.0.0
-[DEBUG]  Detected ios module: ti.applesignin 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.applesignin/2.0.0
-[DEBUG]  Detected ios module: hyperloop 3.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/3.0.1
-[DEBUG]  Detected ios module: hyperloop 3.1.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/3.1.2
-[DEBUG]  Detected ios module: hyperloop 3.0.5 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/3.0.5
-[DEBUG]  Detected ios module: hyperloop 3.1.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/3.1.3
-[DEBUG]  Detected ios module: ti.applesignin 1.1.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.applesignin/1.1.1
-[DEBUG]  Detected ios module: hyperloop 3.1.4 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/3.1.4
-[DEBUG]  Detected ios module: hyperloop 4.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.2
-[DEBUG]  Detected ios module: hyperloop 4.0.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.3
-[DEBUG]  Detected ios module: hyperloop 4.0.4 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4
+[DEBUG]  Detected ios module: com.appcelerator.urlSession 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/3.0.0
 [DEBUG]  Detected ios module: hyperloop 6.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/6.0.2
-[DEBUG]  Detected ios module: ti.coremotion 1.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
-[DEBUG]  Detected ios module: ti.coremotion 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.0
-[DEBUG]  Detected ios module: ti.coremotion 2.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
-[DEBUG]  Detected ios module: ti.coremotion 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/3.0.0
-[DEBUG]  Detected ios module: ti.identity 1.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.1
-[DEBUG]  Detected ios module: ti.identity 1.0.5 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.5
-[DEBUG]  Detected ios module: ti.identity 1.0.3 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.3
-[DEBUG]  Detected ios module: ti.identity 1.0.6 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.6
 [DEBUG]  Detected ios module: ti.identity 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/2.0.0
-[DEBUG]  Detected ios module: ti.map 2.12.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/2.12.1
-[DEBUG]  Detected ios module: ti.map 2.2.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.2
-[DEBUG]  Detected ios module: ti.map 2.8.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/2.8.0
-[DEBUG]  Detected ios module: ti.map 2.9.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/2.9.0
-[DEBUG]  Detected ios module: ti.map 3.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/3.0.1
-[DEBUG]  Detected ios module: ti.map 3.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/3.1.0
-[DEBUG]  Detected ios module: ti.map 3.1.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/3.1.2
-[DEBUG]  Detected ios module: ti.map 3.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/3.0.2
-[DEBUG]  Detected ios module: ti.map 3.3.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/3.3.0
+[DEBUG]  Detected ios module: ti.coremotion 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/3.0.0
+[DEBUG]  Detected ios module: ti.applesignin 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.applesignin/2.0.0
 [DEBUG]  Detected ios module: ti.map 4.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/4.0.1
-[DEBUG]  Detected ios module: ti.safaridialog 1.1.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.1.1
-[DEBUG]  Detected ios module: ti.webdialog 1.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.webdialog/1.1.0
 [DEBUG]  Detected ios module: ti.webdialog 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.webdialog/2.0.0
-[DEBUG]  Detected ios module: ti.touchid 1.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
-[DEBUG]  Detected ios module: ti.touchid 1.2.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.2
-[DEBUG]  Detected ios module: ti.touchid 2.1.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.touchid/2.1.2
-[DEBUG]  Detected ios module: ti.touchid 2.1.4 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.touchid/2.1.4
-[DEBUG]  Detected android module: firebase.core 2.2.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/firebase.core/2.2.0
-[DEBUG]  Detected android module: ti.map 4.2.0 @ /Users/luigivitelli/titanium-proj/PisticciExperience/modules/android/ti.map/4.2.0
-[DEBUG]  Detected ios module: ti.map 3.0.2 @ /Users/luigivitelli/titanium-proj/PisticciExperience/modules/iphone/ti.map/3.0.2
 [DEBUG]  Looking for Titanium module id=ti.map version=latest platform=android,commonjs deploy-type=development
-[INFO]   Found Titanium module id=ti.map version=4.2.0 platform=android deploy-type=development path=/Users/luigivitelli/titanium-proj/PisticciExperience/modules/android/ti.map/4.2.0
+[INFO]   Found Titanium module id=ti.map version=4.2.0 platform=android deploy-type=development path=/Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/android/ti.map/4.2.0
 [INFO]   Found better matching module id=ti.map version=latest platform=android deploy-type=development path=/Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
-[DEBUG]  Found incompatible Titanium module id=ti.map version=3.3.1 platform=android api-version=3 deploy-type=development
-[DEBUG]  Module ti.map has apiversion=3, but the selected SDK supports module apiversion=4 on platform=android
-[DEBUG]  Found incompatible Titanium module id=ti.map version=3.0.1 platform=android api-version=3 deploy-type=development
-[DEBUG]  Module ti.map has apiversion=3, but the selected SDK supports module apiversion=4 on platform=android
-[DEBUG]  Found incompatible Titanium module id=ti.map version=2.3.0 platform=android api-version=2 deploy-type=development
-[DEBUG]  Module ti.map has apiversion=2, but the selected SDK supports module apiversion=4 on platform=android
-[DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/PisticciExperience/node_modules
+[DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/node_modules
 [DEBUG]  Looking for Titanium module id=ti.map version=latest platform=android,commonjs deploy-type=development
-[INFO]   Found Titanium module id=ti.map version=4.2.0 platform=android deploy-type=development path=/Users/luigivitelli/titanium-proj/PisticciExperience/modules/android/ti.map/4.2.0
+[INFO]   Found Titanium module id=ti.map version=4.2.0 platform=android deploy-type=development path=/Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/android/ti.map/4.2.0
 [INFO]   Found better matching module id=ti.map version=latest platform=android deploy-type=development path=/Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
-[DEBUG]  Found incompatible Titanium module id=ti.map version=3.3.1 platform=android api-version=3 deploy-type=development
-[DEBUG]  Module ti.map has apiversion=3, but the selected SDK supports module apiversion=4 on platform=android
-[DEBUG]  Found incompatible Titanium module id=ti.map version=3.0.1 platform=android api-version=3 deploy-type=development
-[DEBUG]  Module ti.map has apiversion=3, but the selected SDK supports module apiversion=4 on platform=android
-[DEBUG]  Found incompatible Titanium module id=ti.map version=2.3.0 platform=android api-version=2 deploy-type=development
-[DEBUG]  Module ti.map has apiversion=2, but the selected SDK supports module apiversion=4 on platform=android
 [DEBUG]  Looking for Titanium module id=ti.playservices version=latest platform=android deploy-type=development
 [INFO]   Found Titanium module id=ti.playservices version=17.1.1 platform=android deploy-type=development path=/Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
 [DEBUG]  No project level plugins to load
-[TRACE]  Snapshotting build directory
 [DEBUG]  Titanium SDK Android directory: /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android
 [INFO]   Deploy type: development
 [INFO]   Building for target: emulator
-[INFO]   Building for emulator: Pixel_3_API_29
+[INFO]   Performing build only
 [INFO]   Targeting Android SDK API: 29
 [INFO]   Building for the following architectures: arm64-v8a, armeabi-v7a, x86, x86_64
 [INFO]   Signing with keystore: /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/dev_keystore (tidev)
@@ -173,123 +67,103 @@ Command
 [INFO]   Profiler disabled
 [INFO]   Transpile javascript: true
 [INFO]   Generate source maps: true
-[INFO]   Forcing rebuild: target changed since last build
-[INFO]     Was: device
-[INFO]     Now: emulator
-[INFO]   Launching emulator: Pixel_3_API_29
-[TRACE]  Starting emulator: Pixel_3_API_29
-[TRACE]  Checking if emulator Pixel_3_API_29 is running...
-[TRACE]  Detecting if Pixel_3_API_29 exists...
-[TRACE]  Found 2 emulators
-[TRACE]  Emulator exists, detecting all running emulators and connected devices...
-[TRACE]  Detected 0 running emulators and connected devices
-[TRACE]  Emulator not running, detecting emulator info
-[TRACE]  Found 2 emulators
-[TRACE]  Starting the emulator...
-[TRACE]  Scanning ports to find a port for the emulator to listening on
-[TRACE]  Emulator will listen on port 5554
-[INFO]   Running: /Users/luigivitelli/Library/Android/sdk/emulator/emulator "-avd" "Pixel_3_API_29" "-port" "5554" "-partition-size" "512"
-[TRACE]  Emulator is starting, monitoring boot state...
-[TRACE]  Checking the boot state for the next 240000 ms
-[TRACE]  Waiting for emulator to register with ADB
-[TRACE]  Emulator process started
+[INFO]   Forcing rebuild: /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/build-manifest.json does not exist
 [INFO]   Processing libraries
 [INFO]   Generating root project files
-[TRACE]  No devices found, continuing to wait
 [INFO]   Generating gradle project: app
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/platform/android => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/platform/android/res => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/platform/android/res/values => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/values
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/platform/android => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/platform/android/res => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/platform/android/res/values => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/values
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/platform/android => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/platform/android/res => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/platform/android/res/values => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/values
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/platform/android => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/platform/android/res => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/platform/android/res/values => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/values
 [INFO]   Copying resource files
 [DEBUG]  Copying /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/common/Resources/android
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources
-[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/book-information-variant.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/book-information-variant.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/interviste/felterino/gallery0.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/gallery0.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/interviste/felterino/gallery1.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/gallery1.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/interviste/felterino/gallery2.jpg => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/gallery2.jpg
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/interviste/felterino/profile.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/profile.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/tab1.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/tab1.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/tab1@2x.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/tab1@2x.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/tab1@3x.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/tab1@3x.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/tab2.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/tab2.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/tab2@2x.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/tab2@2x.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/tab2@3x.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/tab2@3x.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/assets/images/youtube.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/assets/images/youtube.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/interviste.json => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/interviste.json
-[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/iphone
-[DEBUG]  Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/appicon.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/appicon.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-land-hdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-land-hdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-land-ldpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-land-ldpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-land-mdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-land-mdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-land-xhdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-land-xhdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-land-xxhdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-land-xxhdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-land-xxxhdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-land-xxxhdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-port-hdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-port-hdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-port-ldpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-port-ldpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-port-mdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-port-mdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-port-xhdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-port-xhdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-port-xxhdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-port-xxhdpi/background.png
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/android/images/res-port-xxxhdpi/default.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable-port-xxxhdpi/background.png
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/app_cover.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/app_cover.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/book-information-variant.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/book-information-variant.png
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/coriglione/gallery0.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/coriglione/gallery0.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/coriglione/profile.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/coriglione/profile.jpg
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/felterino/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/felterino/gallery0.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/gallery0.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/felterino/gallery1.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/gallery1.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/felterino/gallery2.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/gallery2.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/felterino/profile.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/felterino/profile.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/laurenza/gallery0.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/laurenza/gallery0.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/laurenza/profile.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/laurenza/profile.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/vena/gallery0.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/vena/gallery0.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/interviste/vena/profile.jpg => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/interviste/vena/profile.jpg
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/assets/images/youtube.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/assets/images/youtube.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/interviste.json => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/interviste.json
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/iphone
+[DEBUG]  Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/appicon.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-land-hdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-land-ldpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-land-mdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-land-xhdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-land-xhdpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-land-xxhdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-land-xxhdpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-land-xxxhdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-land-xxxhdpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-hdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-ldpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-mdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-port-mdpi/background.png
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-xhdpi/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-xhdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-port-xhdpi/background.png
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-xxhdpi/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-xxhdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-port-xxhdpi/background.png
+[DEBUG]  Ignoring /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-xxxhdpi/.DS_Store
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/android/images/res-port-xxxhdpi/default.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable-port-xxxhdpi/background.png
 [DEBUG]  Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources
 [INFO]   Processing JavaScript files
 [TRACE]  process-js: Setting initial task state to "created"
 [TRACE]  process-js: Starting task
 [TRACE]  process-js: Changing task state from "created" to "running"
 [TRACE]  process-js: No incremental data, do full task run
-[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/common/Resources/android/ti.main.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/ti.main.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/app.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/app.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/gallery.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/gallery.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/info.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/info.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/intervista.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/intervista.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/lista.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/lista.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/PisticciExperience/Resources/mappa.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/mappa.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources/ti.playservices/ti.playservices.bootstrap.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/ti.playservices/ti.playservices.bootstrap.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources/ti.playservices/ti.playservices.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/ti.playservices/ti.playservices.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/common/Resources/android/ti.main.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.main.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/app.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/app.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/gallery.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/gallery.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/info.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/info.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/intervista.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/intervista.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/lista.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/lista.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/mappa.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/mappa.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources/ti.playservices/ti.playservices.bootstrap.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.playservices/ti.playservices.bootstrap.js
+[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources/ti.playservices/ti.playservices.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.playservices/ti.playservices.js
 [TRACE]  process-js: Changing task state from "running" to "finished"
-[TRACE]  process-js: Finished task in 2s 498.672ms
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/ti.main.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/ti.main.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/app.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/app.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/gallery.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/gallery.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/info.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/info.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/intervista.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/intervista.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/lista.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/lista.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/mappa.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/mappa.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/ti.playservices/ti.playservices.bootstrap.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/ti.playservices/ti.playservices.bootstrap.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/assets/ti.playservices/ti.playservices.js => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/ti.playservices/ti.playservices.js
-[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/assets/Resources/appicon.png => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/drawable/appicon.png
+[TRACE]  process-js: Finished task in 2s 282.952ms
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.main.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/ti.main.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/app.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/app.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/gallery.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/gallery.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/info.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/info.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/intervista.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/intervista.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/lista.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/lista.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/mappa.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/mappa.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.playservices/ti.playservices.bootstrap.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/ti.playservices/ti.playservices.bootstrap.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.playservices/ti.playservices.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/ti.playservices/ti.playservices.js
+[DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/appicon.png => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/drawable/appicon.png
 [INFO]   Generating import/require index file
 [INFO]   Generating Java files
 [INFO]   Generating i18n files
-[DEBUG]  Writing en strings => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/values/ti_i18n_strings.xml
-[INFO]   Generating theme file: /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/res/values/ti_styles.xml
+[DEBUG]  Writing en strings => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/values/ti_i18n_strings.xml
+[INFO]   Generating theme file: /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/res/values/ti_styles.xml
 [INFO]   Generating semantic colors resources
 [DEBUG]  Skipping colorset generation as "semantic.colors.json" file does not exist
-[DEBUG]  Copying template /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/AppInfo.java => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/java/scuolamedia/pisticci/experience/PisticciSharingExperienceAppInfo.java
-[DEBUG]  Copying template /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/App.java => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/java/scuolamedia/pisticci/experience/PisticciSharingExperienceApplication.java
-[DEBUG]  Copying template /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/Activity.java => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/src/main/java/scuolamedia/pisticci/experience/PisticciSharingExperienceActivity.java
-[DEBUG]  Copying /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/gitignore => /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/.gitignore
+[DEBUG]  Copying template /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/AppInfo.java => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/java/scuolamedia/pisticci/experience/PisticciSharingExperienceAppInfo.java
+[DEBUG]  Copying template /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/App.java => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/java/scuolamedia/pisticci/experience/PisticciSharingExperienceApplication.java
+[DEBUG]  Copying template /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/Activity.java => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/java/scuolamedia/pisticci/experience/PisticciSharingExperienceActivity.java
+[DEBUG]  Copying /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android/templates/build/gitignore => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/.gitignore
 [INFO]   Generating main "AndroidManifest.xml" files
 [INFO]   Building app
-[TRACE]  Found 1 devices, checking if any of them are the emulator...
-[TRACE]  Emulator is running!
-[TRACE]  Checking if boot animation has finished...
-[TRACE]  Emulator is not booted yet; checking again in 2000 ms
-[TRACE]  Emulator is booted, emitting booted event
-[INFO]   Emulator is booted
-[INFO]   SD card not required, skipping mount check
-[INFO]   Emulator ready!
 [INFO]   [GRADLE] > Task :app:preBuild UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:preDebugBuild UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:generateDebugBuildConfig
+[INFO]   [GRADLE] > Task :app:javaPreCompileDebug
 [INFO]   [GRADLE] > Task :app:compileDebugAidl NO-SOURCE
 [INFO]   [GRADLE] > Task :app:compileDebugRenderscript NO-SOURCE
-[INFO]   [GRADLE] > Task :app:javaPreCompileDebug
 [INFO]   [GRADLE] > Task :app:generateDebugResValues
 [INFO]   [GRADLE] > Task :app:generateDebugResources
 [INFO]   [GRADLE] > Task :app:createDebugCompatibleScreenManifests
@@ -297,7 +171,7 @@ Command
 [INFO]   [GRADLE] > Task :app:processDebugManifest
 [INFO]   [GRADLE] > Task :app:mergeDebugResources
 [INFO]   [GRADLE] > Task :app:processDebugResources
-[INFO]   [GRADLE] Querying the mapped value of map(java.io.File property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/generated/ap_generated_sources/debug/out)) org.gradle.api.internal.file.DefaultFilePropertyFactory$ToFileTransformer@5d853523) before task ':app:compileDebugJavaWithJavac' has completed has been deprecated. This will fail with an error in Gradle 7.0. Consult the upgrading guide for further information: https://docs.gradle.org/6.5.1/userguide/upgrading_version_6.html#querying_a_mapped_output_property_of_a_task_before_the_task_has_completed
+[INFO]   [GRADLE] Querying the mapped value of map(java.io.File property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/build/generated/ap_generated_sources/debug/out)) org.gradle.api.internal.file.DefaultFilePropertyFactory$ToFileTransformer@389f4950) before task ':app:compileDebugJavaWithJavac' has completed has been deprecated. This will fail with an error in Gradle 7.0. Consult the upgrading guide for further information: https://docs.gradle.org/6.5.1/userguide/upgrading_version_6.html#querying_a_mapped_output_property_of_a_task_before_the_task_has_completed
 [INFO]   [GRADLE] > Task :app:compileDebugJavaWithJavac
 [INFO]   [GRADLE] > Task :app:compileDebugSources
 [INFO]   [GRADLE] > Task :app:mergeDebugShaders
@@ -318,17 +192,8 @@ Command
 [INFO]   [GRADLE] > Task :app:packageDebug
 [INFO]   [GRADLE] > Task :app:assembleDebug
 [INFO]   [GRADLE] 
-[INFO]   [GRADLE] BUILD SUCCESSFUL in 14s
+[INFO]   [GRADLE] BUILD SUCCESSFUL in 12s
 [INFO]   [GRADLE] 22 actionable tasks: 22 executed
-[INFO]   Writing build manifest: /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/build-manifest.json
-[INFO]   Making sure the adb server is running
-[INFO]   Installing apk: /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/outputs/apk/debug/app-debug.apk
-[TRACE]  Checking if package manager service is started
-[TRACE]  Package manager has started
-[TRACE]  Executing: /Users/luigivitelli/Library/Android/sdk/platform-tools/adb -s emulator-5554 install -r -d /Users/luigivitelli/titanium-proj/PisticciExperience/build/android/app/build/outputs/apk/debug/app-debug.apk
-[INFO]   App successfully installed
-[INFO]   Starting app: scuolamedia.pisticci.experience/.PisticciSharingExperienceActivity
-[DEBUG]  Trying to start the app...
-[INFO]   Application pid: 15444
--- Start application log -----------------------------------------------------
-[INFO]   Project built successfully in 26s 374ms
+[INFO]   Writing build manifest: /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/build-manifest.json
+[INFO]   Performed build only, skipping installing of the application
+[INFO]   Project built successfully in 15s 505ms

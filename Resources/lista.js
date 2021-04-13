@@ -1,4 +1,4 @@
-const IMAGE_W = 4, IMAGE_H = 3;
+const IMAGE_W = 4, IMAGE_H = 4;
 var items = require('./interviste.json');
 var createDettaglio = require('./intervista').createWindow;
 
@@ -46,7 +46,7 @@ function createRow(item) {
         backgroundImage: item.immagineCover
     });
     mainImage.addEventListener('postlayout', () => {
-        mainImage.height = mainImage.size.width/IMAGE_W*IMAGE_H
+        mainImage.height = mainImage.size.width/4*3
     })
     mainRow.add(mainImage);
 

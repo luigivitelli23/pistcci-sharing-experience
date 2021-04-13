@@ -1,4 +1,4 @@
-const IMAGE_W = 4, IMAGE_H = 3;
+const IMAGE_W = 4, IMAGE_H = 4;
 const Map = require('ti.map');
 var openGallery = require('./gallery').createWindow;
 
@@ -68,7 +68,7 @@ function createWindow (intervista) {
     width: Ti.UI.FILL,
     height: Ti.UI.SIZE,
     left: 16, right: 16, top: 16, bottom: 4,
-    text: intervista.data + ' ' + intervista.dove,
+    text: intervista.dove,
     font: {
       fontWeight: 'italic'
     }
@@ -92,7 +92,25 @@ function createWindow (intervista) {
     font: {
       fontSize: 16,
     }
+
   }))
+  if(intervista.link) {
+    var linkView = Ti.UI.createLabel({
+      color: '#4286f4',
+      width: Ti.UI.FILL,
+      height: Ti.UI.SIZE,
+      left: 16, right: 16, top: 0, bottom: 8,
+      text: intervista.link.label,
+      textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT,
+      font: {
+        fontSize: 16,
+      }
+    })
+    linkView.on('click', function () {
+      Ti.Platform.openURL(intervista.link.url);
+    })
+    listView.add(linkView)
+  }
 
   listView.add(Ti.UI.createLabel({
     color: 'black',
