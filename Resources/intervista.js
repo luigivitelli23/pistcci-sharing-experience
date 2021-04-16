@@ -136,6 +136,16 @@ function createWindow (intervista) {
       fontWeight: 'bold'
     }
   }))
+  listView.add(Ti.UI.createLabel({
+    color: 'black',
+    width: Ti.UI.FILL,
+    height: Ti.UI.SIZE,
+    left: 16, right: 16, top: 0, bottom: 4,
+    text: intervista.indirizzo,
+    font: {
+      fontSize: 16,
+    }
+  }))
   listView.add(Map.createView({
     height: 150,
     mapType: Map.SATELLITE_TYPE,
@@ -148,6 +158,7 @@ function createWindow (intervista) {
     animate: true,
     regionFit: true,
     userLocation: false,
+    bottom: 16,
     annotations: [Map.createAnnotation({
       latitude: intervista.coordinate[0],
       longitude: intervista.coordinate[1],

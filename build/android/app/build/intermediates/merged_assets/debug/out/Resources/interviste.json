@@ -2,9 +2,10 @@
   {
     "titolo": "L'arte dei fornaciai e ceramisti",
     "coordinate": [40.390390, 16.550879],
-    "dove": "Laboratorio Ceramiche Artistiche, Pisticci",
+    "dove": "Laboratorio Ceramiche Artistiche, Pisticci (MT)",
     "intervistato": "Felterino Onorati",
-    "abstract": "\"Sono un pisticcese autentico, nella vita faccio il fisioterapista per professione e il torniante ceramista per passione\"",
+    "indirizzo": "Via Nicola Franchi 24, Pisticci (Matera)",
+    "abstract": "Sono un pisticcese autentico; nella vita faccio il fisioterapista per professione e il torniante ceramista per passione. Diventa artigiano per un giorno con me!",
     "immagineCover": "assets/images/interviste/felterino/gallery0.png",
     "immagineProfilo": "assets/images/interviste/felterino/profile.jpg",
     "foto": [
@@ -12,33 +13,35 @@
       "assets/images/interviste/felterino/gallery1.jpg",
       "assets/images/interviste/felterino/gallery2.jpg"
     ],
-    "linkVideo": "https://www.youtube.com/watch?v=NgrbxcTWjUw",
-    "body": "Nel territorio di pisticci l'arte dei fornaciai e ceramisti ha orgini antichissime, che rimandano alle antiche botteghe di epoca magnogreca. Grazie alla particolare purezza dell'argilla, infatti, si potevano realizzare manufatti di elevata qualità. Nel secondo dopoguerra purtroppo le attività artigianali subirono un brusco arresto in favore dell'industria della chimica in Val Basento. Fino agli anni 80 del novecento solo due fratelli fornaciai si dedicavano alla produzione di terracotte, vasi, tegami, orci, contenitori per acqua e utensili domestici, ma dopo loro l'antica arte della ceramica è andata persa, fino a quando è stata recuperata con la creazione del mio laboratorio artistico. Quindi vieni a provare l'esperienza di diventare artigiano di Pisticci per un giorno!"
+    "linkVideo": "https://www.youtube.com/watch?v=v2ZHj3eWem8",
+    "body": "Nel territorio di Pisticci l’arte dei fornaciai e ceramisti ha origini antichissime, che rimanda alle antiche botteghe di epoca magnogreca. Grazie alla sua particolare purezza infatti si potevano realizzare manufatti di elevata qualità. Nel secondo dopoguerra purtroppo, le attività artigianali subirono un brusco arresto in favore del “posto fisso” nell’industria della Valbasento; fino agli anni Ottanta solo due fratelli fornaciai si dedicavano alla produzione di terrecotte, vasi, tegami, orci, contenitori per acqua e utensili domestici, ma dopo di loro l’antica arte della ceramica è andata persa, fino a quando è stata recuperata con la creazione di un laboratorio artistico come ci racconta il protagonista di questa storia."
   },
   {
     "titolo": "La cucina tradizionale",
     "coordinate": [40.3901794, 16.5523377],
     "dove": "Ristorante l'Incontro",
     "intervistato": "Beniamino Laurenza",
-    "abstract": "Sono chef di cucina tradizionale pisticcese e gestisco un risotarante nel centro storico del paese. Diventa chef per un giorno con me!",
+    "indirizzo": "Via Risorgimento, 2, 75015 Pisticci (MT)",
+    "abstract": "Sono chef di cucina tradizionale pisticcese e gestisco un ristorante nel centro storico del paese. Diventa chef per un giorno con me!",
     "immagineCover": "assets/images/interviste/laurenza/gallery0.jpg",
     "immagineProfilo": "assets/images/interviste/laurenza/profile.jpg",
     "foto": [
       "assets/images/interviste/laurenza/gallery0.jpg"
     ],
-    "linkVideo": "TODO",
+    "linkVideo": "https://www.youtube.com/watch?v=AdmVM3n7m24",
     "link": {
       "url": "https://www.facebook.com/Ristorante-LIncontro-509228639123860/",
       "label": "pagina Facebook"
     },
-    "body": "Sono chef di cucina tradizionale pisticcese e gestisco un risotarante nel centro storico del paese. Diventa chef per un giorno con me!"
-  },
+    "body": "La cucina tradizionale pisticcese è la tipica cucina povera meridionale. Si tratta di piatti realizzati con ingredienti semplici della tradizione contadina: pasta e pane fatti in casa, verdure raccolte nei campi o coltivate nel proprio orto. La carne principalmente usata era quella del maiale, visto il basso costo e la facile reperibilità. Secondo testimonianze orali, del maiale non veniva buttato nulla: il sangue raccolto per fare il sanguinaccio “dolce tipico”, il grasso per ricavarne poi lo strutto che serviva per la conservazione di derrate alimentari. Solo in circostanze di festività, quali Natale, Pasqua e le feste patronali venivano acquistate carni più pregiate, come l’agnello e il vitello. L’alimentazione quotidiana era a base di farinacei e verdura. Le verdure spesso erano consumate da sole o, accompagnate da legumi o pasta, ad esempio fave e cicorie, pasta e fave; ancora pasta con le cime di rapa, cicoria di campo in brodo di carne. I legumi, i cereali, gli ortaggi e le erbe aromatiche erano la base di piatti dal gusto deciso e nel contempo armonico. I formaggi costituivano un motivo ricorrente sulle tavole di tutto il paese, tutti di ottima qualità, soprattutto quelli ricavati da latte di ovini e caprini. Si può osservare nella preparazione del cibo, in alcuni casi, una suddivisione di ruoli tra maschio e femmina. La raccolta delle piante selvatiche e la caccia è spesso effettuata dagli uomini ed in genere anche la preparazione del cibo all’aperto. La raccolta delle lumache, la preparazione della pastorale, la carne arrosto suggeriscono la distinzione tra cucina “domestica” e cucina “selvatica”, separazione visibile anche nel rito dell’uccisione del maiale. Il consumo del cibo dà attenzione all’aspetto sociale della commensalità, in rilevanza maggiore soprattutto in occasioni cerimoniali-sociali: matrimoni, lavori collettivi quali mietitura, uccisione del maiale, raccolta delle olive, vendemmia."
+},
   {
     "titolo": "L'apicultura biodinamica",
     "coordinate": [40.3729065, 16.5930988],
     "dove": "Contrada Ficagnole, Pisticci",
     "intervistato": "Nicola Coriglione",
-    "abstract": "Sono apicoltore biodinamico, vivo in campagna a due passi dal centro storico di pisticci a contatto con la grande biodiversità del nostro territorio. Diventa apicoltore per un giorno con me!",
+    "indirizzo": "Contrada Ficagnole, Pisticci (MT)",
+    "abstract": "Sono apicoltore biodinamico, vivo in campagna a due passi dal centro storico di Pisticci a contatto con la grande biodiversità del nostro territorio. Diventa apicoltore per un giorno con me!",
     "immagineCover": "assets/images/interviste/coriglione/gallery0.jpg",
     "immagineProfilo": "assets/images/interviste/coriglione/profile.jpg",
     "foto": [
@@ -49,14 +52,15 @@
       "url": "http://www.mieletture.it/",
       "label": "Sito web - Mieletture"
     },
-    "body": "L’Apicoltura biodinamica consiste nell’allevare le api con cura e amorevole consapevolezza, cercando di coniugare le conoscenze scientifiche con una visione spirituale della Natura e dell’Universo. Guidati dalle indicazioni fornite originariamente da R.Steiner, si percorre una via rispettosa della vita biologica e della natura spirituale delle api, nella consapevolezza dell’importanza e dell’interdipendenza che si è creata già in epoche remote tra l’Essere Umano e l’Essere dell’Ape. L’Apicoltore biodinamico, anche con l’uso di tisane e preparati biodinamici, conducendo tecniche apistiche riguardose degli equilibri naturali, svolge un’attività rivolta -in primis- al rafforzamento delle api e quindi alla salvaguardia di tutta la Natura. L’esperienza personale e comunitaria dell’apicoltura biodinamica consiste in un viaggio che impegna molto sul piano fisico, che coinvolge moltissimo sul piano animico e che richiede impegno nello studio, una costanza nella sperimentazione ed una forte volontà e disposizione nel cogliere lo Spirito in ogni sua manifestazione sul piano fisico/sensibile. L’apicoltura biodinamica è dunque un modo rispettoso di affacciarsi al mondo delle api. Un graduale processo di acquisizione animica, basato sulla consapevolezza di un atteggiamento interiore, intriso di umiltà, rispetto, gentilezza e gratitudine, che consente ad ogni essere umano, anche non apicoltore, di entrare in contatto con un essere speciale."
+    "body": "L’Apicoltura biodinamica consiste nell’allevare le api con cura e amorevole consapevolezza, cercando di coniugare le conoscenze scientifiche con una visione spirituale della Natura e dell’Universo. Guidati dalle indicazioni fornite originariamente da R.Steiner, si percorre una via rispettosa della vita biologica e della natura spirituale delle api, nella consapevolezza dell’importanza e dell’interdipendenza che si è creata già in epoche remote tra l’Essere Umano e l’Essere dell’Ape. L’apicoltore biodinamico, anche con l’uso di tisane e preparati biodinamici, conducendo tecniche apistiche riguardose degli equilibri naturali, svolge un’attività rivolta -in primis- al rafforzamento delle api e quindi alla salvaguardia di tutta la Natura. L’esperienza personale e comunitaria dell’apicoltura biodinamica consiste in un viaggio che impegna molto sul piano fisico/sensibile. L’apicoltura biodinamica è dunque un modo rispettoso di affacciarsi al mondo delle api. Un graduale processo di acquisizione animica, basato sulla consapevolezza di un atteggiamento interiore, intriso di umiltà, rispetto, gentilezza e gratitudine, che consente ad ogni essere umano, anche non apicoltore, di entrare in contatto con un essere speciale."
   },
   {
     "titolo": "L'Amaro Lucano",
     "coordinate": [40.4187154, 16.5494973],
     "dove": "Museo dell’Amaro Lucano",
     "intervistato": "Francesco Vena",
-    "abstract": "Sono project manager dell’azienda di famiglia, l’Amaro Lucano, un marchio molto riconosciuto in Italia e all’estero, ecco perchè ho deciso di realizzare un museo che ne racconti la storia dal 1894. Diventa un impnreditore per un giorno con me!",
+    "indirizzo": "Via Cav. Pasquale Vena, Pisticci (MT)",
+    "abstract": "Sono project manager dell’azienda di famiglia, l’Amaro Lucano, un marchio molto riconosciuto in Italia e all’estero, ecco perchè ho deciso di realizzare un museo che ne racconti la storia dal 1894. Diventa un imprenditore per un giorno con me!",
     "immagineCover": "assets/images/interviste/vena/gallery0.jpg",
     "immagineProfilo": "assets/images/interviste/vena/profile.jpg",
     "foto": [
@@ -67,6 +71,6 @@
       "url": "https://www.essenzalucano.it/",
       "label": "Sito web - Essenza Lucano"
     },
-    "body": "L'invenzione dell'amaro risale al 1894 ad opera di Pasquale Vena, proprietario dell'omonimo biscottificio nel paese di Pisticci e pasticciere che produceva l'amaro mescolando diverse erbe officinali. Nel 1900, l'Amaro Lucano ottenne notorietà a livello nazionale, da quando i Vena divennero fornitori ufficiali della reale Casa Savoia, il cui stemma appare sull'etichetta. L'azienda passò di mano nel 1937, alla morte del fondatore, ai figli Leonardo e Giuseppe Carmine Vena. Dopo il blocco della produzione durante la seconda guerra mondiale a causa della carenza di materie prime, negli anni '50 l'azienda diventò una realtà industriale, raggiungendo una produzione di 117.000 litri. Nel 1965 viene aperto un nuovo stabilimento nella frazione di Pisticci Scalo. Negli anni settanta, l'azienda lanciò sul mercato altri prodotti sotto il nome di \"Lucano\" come le varietà al sambuca, limoncello e caffè, oltre a produrre cioccolatini a base di liquore."
+    "body": "L'invenzione dell'Amaro Lucano risale al 1894 ad opera di Pasquale Vena, proprietario dell'omonimo biscottificio nel paese di Pisticci e pasticciere che produceva l'amaro mescolando diverse erbe officinali. Nel 1900 l'Amaro Lucano ottenne notorietà a livello nazionale, da quando i Vena divennero fornitori ufficiali della reale Casa Savoia, il cui stemma appare sull'etichetta. Alla morte del fondatore, l'azienda passò di mano nel 1937 ai figli Leonardo e Giuseppe Carmine Vena. Dopo il blocco della produzione durante la seconda guerra mondiale a causa della carenza di materie prime, negli anni Cinquanta l'azienda diventò una realtà industriale, raggiungendo una produzione di 117.000 litri. Nel 1965 venne aperto un nuovo stabilimento nella frazione di Pisticci Scalo. Negli anni Settanta l'azienda lanciò sul mercato altri prodotti sotto il nome di \"Lucano\" come le varietà al sambuca, limoncello e caffè, oltre a produrre cioccolatini a base di liquore."
   }
 ]

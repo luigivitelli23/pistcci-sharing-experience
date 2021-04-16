@@ -1,5 +1,5 @@
 
-4/13/2021, 11:45:38 AM
+4/16/2021, 7:32:06 PM
 
 Operating System
   Name                        = macOS
@@ -26,24 +26,24 @@ Command
 [DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/node_modules
 [DEBUG]  Detecting modules in /Users/luigivitelli/Library/Application Support/Titanium/modules
 [DEBUG]  Detecting modules in /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules
-[DEBUG]  Detected android module: ti.map 4.2.0 @ /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/android/ti.map/4.2.0
+[DEBUG]  Detected android module: facebook 10.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/10.0.0
+[DEBUG]  Detected android module: ti.identity 3.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.identity/3.0.2
 [DEBUG]  Detected android module: ti.cloudpush 7.1.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.cloudpush/7.1.0
+[DEBUG]  Detected android module: ti.webdialog 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.webdialog/2.0.0
 [DEBUG]  Detected android module: ti.playservices 17.1.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
 [DEBUG]  Detected android module: hyperloop 6.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/hyperloop/6.0.2
-[DEBUG]  Detected ios module: ti.map 3.0.2 @ /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/iphone/ti.map/3.0.2
-[DEBUG]  Detected android module: ti.identity 3.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.identity/3.0.2
-[DEBUG]  Detected android module: ti.map 5.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
-[DEBUG]  Detected android module: facebook 10.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/facebook/10.0.0
-[DEBUG]  Detected android module: ti.webdialog 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.webdialog/2.0.0
 [DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
-[DEBUG]  Detected ios module: facebook 9.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/facebook/9.0.0
 [DEBUG]  Detected ios module: com.appcelerator.urlSession 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/3.0.0
+[DEBUG]  Detected android module: ti.map 5.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
+[DEBUG]  Detected ios module: facebook 9.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/facebook/9.0.0
+[DEBUG]  Detected ios module: ti.map 3.0.2 @ /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/iphone/ti.map/3.0.2
+[DEBUG]  Detected android module: ti.map 4.2.0 @ /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/android/ti.map/4.2.0
 [DEBUG]  Detected ios module: hyperloop 6.0.2 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/hyperloop/6.0.2
-[DEBUG]  Detected ios module: ti.identity 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/2.0.0
-[DEBUG]  Detected ios module: ti.coremotion 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/3.0.0
 [DEBUG]  Detected ios module: ti.applesignin 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.applesignin/2.0.0
 [DEBUG]  Detected ios module: ti.map 4.0.1 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.map/4.0.1
+[DEBUG]  Detected ios module: ti.coremotion 3.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.coremotion/3.0.0
 [DEBUG]  Detected ios module: ti.webdialog 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.webdialog/2.0.0
+[DEBUG]  Detected ios module: ti.identity 2.0.0 @ /Users/luigivitelli/Library/Application Support/Titanium/modules/iphone/ti.identity/2.0.0
 [DEBUG]  Looking for Titanium module id=ti.map version=latest platform=android,commonjs deploy-type=development
 [INFO]   Found Titanium module id=ti.map version=4.2.0 platform=android deploy-type=development path=/Users/luigivitelli/titanium-proj/pistcci-sharing-experience/modules/android/ti.map/4.2.0
 [INFO]   Found better matching module id=ti.map version=latest platform=android deploy-type=development path=/Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
@@ -54,6 +54,7 @@ Command
 [DEBUG]  Looking for Titanium module id=ti.playservices version=latest platform=android deploy-type=development
 [INFO]   Found Titanium module id=ti.playservices version=17.1.1 platform=android deploy-type=development path=/Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
 [DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
 [DEBUG]  Titanium SDK Android directory: /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/android
 [INFO]   Deploy type: development
 [INFO]   Building for target: emulator
@@ -67,7 +68,6 @@ Command
 [INFO]   Profiler disabled
 [INFO]   Transpile javascript: true
 [INFO]   Generate source maps: true
-[INFO]   Forcing rebuild: /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/build-manifest.json does not exist
 [INFO]   Processing libraries
 [INFO]   Generating root project files
 [INFO]   Generating gradle project: app
@@ -123,18 +123,10 @@ Command
 [TRACE]  process-js: Setting initial task state to "created"
 [TRACE]  process-js: Starting task
 [TRACE]  process-js: Changing task state from "created" to "running"
-[TRACE]  process-js: No incremental data, do full task run
-[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/mobilesdk/osx/9.2.1.GA/common/Resources/android/ti.main.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.main.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/app.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/app.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/gallery.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/gallery.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/info.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/info.js
+[TRACE]  process-js: Input files changed, do incremental task run
 [DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/intervista.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/intervista.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/lista.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/lista.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/Resources/mappa.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/mappa.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources/ti.playservices/ti.playservices.bootstrap.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.playservices/ti.playservices.bootstrap.js
-[DEBUG]  process-js: Copying /Users/luigivitelli/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources/ti.playservices/ti.playservices.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.playservices/ti.playservices.js
 [TRACE]  process-js: Changing task state from "running" to "finished"
-[TRACE]  process-js: Finished task in 2s 282.952ms
+[TRACE]  process-js: Finished task in 0s 610.449ms
 [DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/ti.main.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/ti.main.js
 [DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/app.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/app.js
 [DEBUG]  Symlinking /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/assets/gallery.js => /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/src/main/assets/Resources/gallery.js
@@ -160,40 +152,40 @@ Command
 [INFO]   Building app
 [INFO]   [GRADLE] > Task :app:preBuild UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:preDebugBuild UP-TO-DATE
-[INFO]   [GRADLE] > Task :app:generateDebugBuildConfig
-[INFO]   [GRADLE] > Task :app:javaPreCompileDebug
 [INFO]   [GRADLE] > Task :app:compileDebugAidl NO-SOURCE
+[INFO]   [GRADLE] > Task :app:generateDebugBuildConfig UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:compileDebugRenderscript NO-SOURCE
-[INFO]   [GRADLE] > Task :app:generateDebugResValues
-[INFO]   [GRADLE] > Task :app:generateDebugResources
-[INFO]   [GRADLE] > Task :app:createDebugCompatibleScreenManifests
-[INFO]   [GRADLE] > Task :app:extractDeepLinksDebug
-[INFO]   [GRADLE] > Task :app:processDebugManifest
-[INFO]   [GRADLE] > Task :app:mergeDebugResources
-[INFO]   [GRADLE] > Task :app:processDebugResources
-[INFO]   [GRADLE] Querying the mapped value of map(java.io.File property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/build/generated/ap_generated_sources/debug/out)) org.gradle.api.internal.file.DefaultFilePropertyFactory$ToFileTransformer@389f4950) before task ':app:compileDebugJavaWithJavac' has completed has been deprecated. This will fail with an error in Gradle 7.0. Consult the upgrading guide for further information: https://docs.gradle.org/6.5.1/userguide/upgrading_version_6.html#querying_a_mapped_output_property_of_a_task_before_the_task_has_completed
-[INFO]   [GRADLE] > Task :app:compileDebugJavaWithJavac
-[INFO]   [GRADLE] > Task :app:compileDebugSources
-[INFO]   [GRADLE] > Task :app:mergeDebugShaders
+[INFO]   [GRADLE] > Task :app:javaPreCompileDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:generateDebugResValues UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:generateDebugResources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugResources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:extractDeepLinksDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:processDebugManifest UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:processDebugResources UP-TO-DATE
+[INFO]   [GRADLE] Querying the mapped value of map(java.io.File property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/app/build/generated/ap_generated_sources/debug/out)) org.gradle.api.internal.file.DefaultFilePropertyFactory$ToFileTransformer@ffb984c) before task ':app:compileDebugJavaWithJavac' has completed has been deprecated. This will fail with an error in Gradle 7.0. Consult the upgrading guide for further information: https://docs.gradle.org/6.5.1/userguide/upgrading_version_6.html#querying_a_mapped_output_property_of_a_task_before_the_task_has_completed
+[INFO]   [GRADLE] > Task :app:compileDebugJavaWithJavac UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:compileDebugSources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugShaders UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:compileDebugShaders NO-SOURCE
 [INFO]   [GRADLE] > Task :app:generateDebugAssets UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:mergeDebugAssets
 [INFO]   [GRADLE] > Task :app:processDebugJavaRes NO-SOURCE
-[INFO]   [GRADLE] > Task :app:mergeDebugJavaResource
-[INFO]   [GRADLE] > Task :app:checkDebugDuplicateClasses
-[INFO]   [GRADLE] > Task :app:dexBuilderDebug
-[INFO]   [GRADLE] > Task :app:desugarDebugFileDependencies
-[INFO]   [GRADLE] > Task :app:mergeDebugJniLibFolders
-[INFO]   [GRADLE] > Task :app:validateSigningDebug
-[INFO]   [GRADLE] > Task :app:mergeDebugNativeLibs
-[INFO]   [GRADLE] > Task :app:stripDebugDebugSymbols
-[INFO]   [GRADLE] > Task :app:multiDexListDebug
-[INFO]   [GRADLE] > Task :app:mergeDexDebug
+[INFO]   [GRADLE] > Task :app:mergeDebugJavaResource UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:checkDebugDuplicateClasses UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:dexBuilderDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:desugarDebugFileDependencies UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:multiDexListDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDexDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugJniLibFolders UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugNativeLibs UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:stripDebugDebugSymbols UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:validateSigningDebug UP-TO-DATE
 [INFO]   [GRADLE] > Task :app:packageDebug
 [INFO]   [GRADLE] > Task :app:assembleDebug
 [INFO]   [GRADLE] 
-[INFO]   [GRADLE] BUILD SUCCESSFUL in 12s
-[INFO]   [GRADLE] 22 actionable tasks: 22 executed
+[INFO]   [GRADLE] BUILD SUCCESSFUL in 1s
+[INFO]   [GRADLE] 22 actionable tasks: 2 executed, 20 up-to-date
 [INFO]   Writing build manifest: /Users/luigivitelli/titanium-proj/pistcci-sharing-experience/build/android/build-manifest.json
 [INFO]   Performed build only, skipping installing of the application
-[INFO]   Project built successfully in 15s 505ms
+[INFO]   Project built successfully in 3s 253ms
